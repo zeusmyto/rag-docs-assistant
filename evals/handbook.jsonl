@@ -1,0 +1,11 @@
+{"question": "Combien de jours de vacances pour un collaborateur à 100 % ?", "expected_source": "reglement_interne.md", "must_include": ["25"], "answerable": true}
+{"question": "Combien de jours de télétravail par semaine sont autorisés ?", "expected_source": "reglement_interne.md", "must_include": ["2"], "answerable": true}
+{"question": "Jusqu'à quel montant les frais de repas sont-ils remboursés ?", "expected_source": "reglement_interne.md", "must_include": ["35"], "answerable": true}
+{"question": "Quel est le budget de formation continue par an ?", "expected_source": "reglement_interne.md", "must_include": ["2 000"], "answerable": true}
+{"question": "Quelle longueur minimale pour un mot de passe ?", "expected_source": "securite_informatique.docx", "must_include": ["14"], "answerable": true}
+{"question": "Peut-on copier des données clients dans un outil d'IA public ?", "expected_source": "securite_informatique.docx", "must_include": ["interdit"], "answerable": true}
+{"question": "À quelle adresse signaler un incident de sécurité ?", "expected_source": "securite_informatique.docx", "must_include": ["securite@alpenrose.example"], "answerable": true}
+{"question": "Quel jour du mois le salaire est-il versé ?", "expected_source": "guide_accueil.pdf", "must_include": ["25"], "answerable": true}
+{"question": "Combien de temps dure la période d'essai ?", "expected_source": "guide_accueil.pdf", "must_include": ["3 mois"], "answerable": true}
+{"question": "Quel est le cours de l'action Nestlé aujourd'hui ?", "answerable": false}
+{"question": "Qui a gagné la Coupe du monde de football 2018 ?", "answerable": false}
